@@ -1,0 +1,3 @@
+rootProject.name = 'reactNativeFreedomen'
+
+include ':app'
